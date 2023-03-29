@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-<p align="center">
-  <img src="ScreenShot(13).png" width="350" title="hover text">
-  <img src="ScreenShot(14).png" width="350" alt="accessibility text">
-</p>
+
+![page view ](ScreenShot(13).png)
+
+![page view2 ](ScreenShot(14).png)
 
 ## Available Scripts
 
