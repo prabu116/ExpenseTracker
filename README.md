@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+check the images for UI
+![page view ](image1.png)
 
-![page view ](ScreenShot(13).png)
-
-![page view2 ](ScreenShot(14).png)
+![page view2 ](image2.png)
 
 ## Available Scripts
 
